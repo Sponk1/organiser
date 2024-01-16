@@ -1,1 +1,40 @@
+body{
+    background-color: #000000;
+}
 
+span{
+    color: white;
+    font-size: 16pt;
+}
+
+/* .text-typing {
+    text-align: center;
+    font-size: 46px;
+    margin-top: 100px;
+} */
+
+/* #typed {
+    display: inline;
+} */
+
+.register{
+    margin-top: 250px;
+    margin-left: 12px;
+    margin-right: 12px;
+    background-color: #F87C7C;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    color: #000000;
+}
+
+.registration{
+    margin-top: 300px;
+    margin-left: 12px;
+    margin-right: 12px;
+    background-color: #F87C7C;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    color: #000000;
+}
